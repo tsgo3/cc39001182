@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73dac853-d34d-40cc-bdff-06a5a5e3a218" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc39001182/q3/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cc39001182/q3/Mémoire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cc39001182/q3/Memoire.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reponses.md" beforeDir="false" afterPath="$PROJECT_DIR$/reponses.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc39001182/q2/Cookingreference2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc39001182/q2/Cookingreference2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cc39001182/q3/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cc39001182/q3/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cc39001182/q3/Mémoire.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668506344464</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Q3">
+      <created>1668507318670</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668507318670</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,6 +156,7 @@
     <MESSAGE value="Q2" />
     <MESSAGE value="Q2 affichage" />
     <MESSAGE value="Q2 UML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Q2 UML" />
+    <MESSAGE value="Q3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Q3" />
   </component>
 </project>
