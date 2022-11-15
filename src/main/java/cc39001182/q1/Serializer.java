@@ -2,7 +2,7 @@ package cc39001182.q1;
 
 import java.io.IOException;
 
-public abstract interface Serializer {
+public interface Serializer {
     String name();
     int size();
     void write() throws IOException;
