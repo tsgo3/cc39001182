@@ -15,16 +15,12 @@ public class Memoire implements Builder{
 
     private String biblio;
 
-    public Memoire(String titre, String auteur, String introduction, String conclusion, String resume, String remerciements, String chapitres, String bibliographie)
+    public Memoire(String titre, String auteur, String introduction, String conclusion, Boolean resume, Boolean remerciements, Boolean chapitres, Boolean bibliographie)
     {
         settitre(titre);
         setauteur(auteur);
         setintroduction(introduction);
         setconclusion(conclusion);
-        setresume(resume);
-        setremerciements(remerciements);
-        setchapitre(chapitres);
-        setbiblio(bibliographie);
     }
 
     @Override
