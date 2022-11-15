@@ -2,6 +2,7 @@ package cc39001182.q1;
 
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Scanner;
 
 public class FileSerializer implements Serializer{
     private final String name;
@@ -22,7 +23,10 @@ public class FileSerializer implements Serializer{
     }
 
     @Override
-    public void write(String tex) throws IOException {
+    public void write() throws IOException {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Saisir votre texte");
+        String tex = sc.nextLine();
         try {
             FileWriter f = new FileWriter("Fichier.txt", true);
             f.write(tex);
